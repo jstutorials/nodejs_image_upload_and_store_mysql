@@ -9,12 +9,12 @@ This nodejs app use to upload and store image into mysql database, stroing image
 <p>Create 'test' name database into mysql.</p>
 <p>Run user.sql file to create user table into 'test' database.</p>
 
-#Configure nodejs application
+# Configure nodejs application
 <p>Copy all files of this git repo into 'c:/project_folder' and run below command</p>
 <p>c:/project_folder> npm install</p>
 
-#Run node js application server
+# Run node js application server
 c:/project_folder> node app.js
 
-#Test nodejs application
+# Test nodejs application
 open http://project_name:8080 on browser.
